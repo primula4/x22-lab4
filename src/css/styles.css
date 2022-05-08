@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background-color: rgb(22, 179, 35);
+
+}
+
+#map {
+    height: 85vh;
+    width: 100%;
+}
+
+.map-container {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+
+}
+
+#showMe {
+    background-color: rgb(23, 142, 87);
+    height: 45px;
+    width: 200px;
+    color: rgb(135, 171, 198);
+
+}
+
+#showMe:hover {
+    background-color: rgb(223, 191, 221);
+    padding: 10px;
+    font-weight: 500;
+    color: rgb(198, 209, 218);
+    font-style: oblique;
+    font-size: larger;
+
+}
+
+footer {
+    background-color: rgb(171, 219, 188);
+}
